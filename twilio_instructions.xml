@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<note>
-  <from>Jani</from>
-  <to>Tove</to>
-  <message>Remember me this weekend</message>
-</note>
+<Response>
+<Say voice="alice">You have been called by VAS Voice Assistant. Goodbye!</Say>
+<Play>http://demo.twilio.com/docs/classic.mp3</Play>
+</Response>
